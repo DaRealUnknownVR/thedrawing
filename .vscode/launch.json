@@ -1,0 +1,99 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Echo",
+      "request": "launch",
+      "mainClass": "Echo",
+      "projectName": "Unknown VR's Code_68fb6a84"
+    },
+    {
+      "type": "java",
+      "name": "LDTimeline",
+      "request": "launch",
+      "mainClass": "LDTimeline",
+      "projectName": "Unknown VR's Code_68fb6a84"
+    },
+    {
+      "type": "java",
+      "name": "LBHelloYou",
+      "request": "launch",
+      "mainClass": "LBHelloYou",
+      "projectName": "Unknown VR's Code_68fb6a84"
+    },
+    {
+      "type": "java",
+      "name": "L3HideAndSeek",
+      "request": "launch",
+      "mainClass": "L3HideAndSeek",
+      "projectName": "Unknown VR's Code_68fb6a84"
+    },
+    {
+      "type": "java",
+      "name": "HideAndSeek",
+      "request": "launch",
+      "mainClass": "HideAndSeek",
+      "projectName": "Unknown VR's Code_68fb6a84"
+    },
+    {
+      "type": "java",
+      "name": "HelloWorld",
+      "request": "launch",
+      "mainClass": "HelloWorld",
+      "projectName": "Unknown VR's Code_68fb6a84"
+    },
+    {
+      "type": "java",
+      "name": "Addition",
+      "request": "launch",
+      "mainClass": "Addition",
+      "projectName": "Sarthak's Code_a69d4e4a"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/chats/OneDrive/Desktop/Unknown VR's Code/Z Code.Broken(True)/Learn C++ Folder/Unit 1 Hello World",
+      "program": "c:/Users/chats/OneDrive/Desktop/Unknown VR's Code/Z Code.Broken(True)/Learn C++ Folder/Unit 1 Hello World/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    },
+    {
+      "name": "C/C++: gcc.exe build and debug active file",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "C:/msys64/ucrt64/bin",
+      "environment": [],
+      "externalConsole": false,
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:\\msys64\\ucrt64\\bin\\gdb.exe",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        },
+        {
+          "description": "Set Disassembly Flavor to Intel",
+          "text": "-gdb-set disassembly-flavor intel",
+          "ignoreFailures": true
+        }
+      ],
+      "preLaunchTask": "C/C++: gcc.exe build active file"
+    }
+  ]
+}
